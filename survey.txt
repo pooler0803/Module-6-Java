@@ -1,0 +1,14 @@
+What is your rating of the dark roast coffee (1-poor, 2-fair, 3-good, 4-excellent, 5-outstanding)? 3
+What is your rating of the medium roast coffee (1-poor, 2-fair, 3-good, 4-excellent, 5-outstanding)? 1
+What is your rating of the light roast coffee (1-poor, 2-fair, 3-good, 4-excellent, 5-outstanding)? 5
+What is your rating of the french vanilla coffee (1-poor, 2-fair, 3-good, 4-excellent, 5-outstanding)? 2
+What is your rating of the caramel coffee (1-poor, 2-fair, 3-good, 4-excellent, 5-outstanding)? 2
+
+Ratings:
+Dark Roast: ***
+Medium Roast: *
+Light Roast: *****
+French Vanilla: **
+Caramel: **
+
+Your average rating is 2.6
